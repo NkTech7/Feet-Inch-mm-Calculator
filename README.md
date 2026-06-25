@@ -1,18 +1,17 @@
 Feet Inch & mm Calculator
 
 A simple, fast, and accurate Android application for converting and calculating measurements between Feet, Inches, Millimeters (mm), Centimeters (cm), Meters (m), and other common units. Perfect for engineers, architects, carpenters, students, and everyday users.
+## 📱 Features
 
-
-        📱 Features 
-📏 Convert Feet to Inches, mm, cm, and Meters
-📐 Convert Millimeters (mm) to Feet & Inches
-🔄 Instant and accurate unit conversions
-⚡ Fast calculation results
-📱 Clean and easy-to-use interface
-🌙 Modern Material Design
-📴 Works offline
-🚀 Lightweight and optimized for all Android devices
-
+- 📏 Convert Feet to Inches, mm, cm, and Meters
+- 📐 Convert Millimeters (mm) to Feet & Inches
+- 🔄 Instant and accurate unit conversions
+- ⚡ Fast calculation results
+- 📱 Clean and easy-to-use interface
+- 🌙 Modern user interface
+- 📱 Lightweight design
+- 📴 Works offline
+- ⚡ Regular updates
 
 ---
 
@@ -46,7 +45,11 @@ A simple, fast, and accurate Android application for converting and calculating 
 
 ## 📥 Download on Google Play
 
-https://play.google.com/store/apps/details?id=com.nktech.inchcalculator
+<a href="https://play.google.com/store/apps/details?id=com.nktech.inchcalculator">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+       alt="Get it on Google Play"
+       width="220">
+</a>
 ---
 
 
